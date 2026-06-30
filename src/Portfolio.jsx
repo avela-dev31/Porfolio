@@ -13,8 +13,8 @@ const profile = {
 
 const stack = [
     { layer: "Interfaz", side: "frontend", tools: "JavaScript · React · React Native" },
-    { layer: "Lógica", side: "backend", tools: "Node.js · Python · Spring Boot · Java" },
-    { layer: "Datos", side: "infra", tools: "PostgreSQL · Docker · AWS · MySQL" },
+    { layer: "Lógica", side: "backend", tools: "Node.js · Python · Spring Boot" },
+    { layer: "Datos", side: "infra", tools: "PostgreSQL · Supabase · Docker · Vercel" },
 ];
 
 const projects = [
@@ -58,7 +58,7 @@ const experience = [
 const skills = {
     Frontend: ["React", "TypeScript", "Next.js", "HTML / CSS"],
     Backend: ["Node.js", "Python", "Express", "FastAPI", "REST / GraphQL", "SpringBoot"],
-    "Datos & Herramientas": ["PostgreSQL", "MongoDB", "Docker", "Git", "AWS", "MySQL"],
+    "Datos & Herramientas": ["PostgreSQL", "MongoDB", "Docker", "Git", "AWS", "MySQL","Supabase","Vercel","Render"],
 };
 
 const socials = [
