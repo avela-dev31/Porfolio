@@ -309,7 +309,7 @@ export default function Portfolio() {
                         <div className="pf-reveal">
                             <p className="pf-eyebrow">Full Stack Developer</p>
                             <h1>
-                                Hola soy Antonio Luis Vela Garcia.
+                                Antonio Luis Vela Garcia.
                             </h1>
                             <p className="pf-lead">
                                 Desarrollador full stack, capaz de construir y soluciones probelemas digitales de alta calidad.
