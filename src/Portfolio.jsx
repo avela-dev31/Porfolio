@@ -64,7 +64,7 @@ const skills = {
 const socials = [
     { label: "GitHub", href: "https://github.com/avela-dev31" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/antonio-luis-vela-garc%C3%ADa-1800a1267/" },
-    { label: "CV (PDF)", href: "/Currículum_AntonioLuisVelaGarcía (5).pdf" },
+    { label: "CV (PDF)", href: "/CV-Antonio-Vela.pdf" },
 ];
 
 const navItems = [
