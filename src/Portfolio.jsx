@@ -32,7 +32,7 @@ const projects = [
         title: "PijamaPizza App",
         description:
             "Futuro proyecto sobre una aplicacion para facilitar a los usuarios el hacer pedidos a una pizzeria local. Actualmente se encuentra en desarrollo. Pronto tendreís maas noticias",
-        tags: ["Next.js", "TypeScript", "Stripe"],
+        tags: ["React Native + Expo", "JavaScript", "Java + SpringBoot", "PostgresSQL"],
         demo: "",
         code: "",
     },
