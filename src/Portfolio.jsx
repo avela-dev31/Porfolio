@@ -34,14 +34,15 @@ const projects = [
             "Futuro proyecto sobre una aplicacion para facilitar a los usuarios el hacer pedidos a una pizzeria local. Actualmente se encuentra en desarrollo. Pronto tendreís maas noticias",
         tags: ["React Native + Expo", "JavaScript", "Java + SpringBoot", "PostgresSQL"],
         demo: "",
-        code: "",
+        code: "https://github.com/avela-dev31/pijamapizza-app.git",
+        code1: "https://github.com/avela-dev31/PijamaPizza.git"
     },
 ];
 
 const experience = [
     {
         period: "Febrero 2025 — Mayo 2025",
-        role: "Software Developer",
+        role: "Appian Software Developer",
         company: "Plexus Tech",
         description:
             "Progamador Appian para la creación y mantenimiento de soluciones de software, aplicando conocimientos de desarrollo backend/frontend en un entorno corporativo",
